@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qwirky-yuzu
 - 👀 I’m interested in data analytics and AI!
-- 🌱 I’m currently learning data analytics, ML, DevSecOps .... (I have a lot to learn)
+- 🌱 I’m currently learning data analytics, ML, DevSecOps .... (I have a lot to learn!)
 - 💞️ I’m looking to collaborate on any interesting data analytics or ML related projects.
 - 📫 How to reach me ...
 
