@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Data Science, ML, DevSecOps .... (and a lot more!)
 - 🛠 Some of my other works:
 >> 1. Covid-19 Visualization with R - https://rpubs.com/qianyu/684447
-> 2. SG Population Visualization with R - https://rpubs.com/qianyu/681167
+>> 2. SG Population Visualization with R - https://rpubs.com/qianyu/681167
 
 <!---
 qwirky-yuzu/qwirky-yuzu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
