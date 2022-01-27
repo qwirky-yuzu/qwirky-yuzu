@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qwirky-yuzu
-- 👀 I’m interested in fields related to data science and AI!
-- 🌱 I’m currently learning data science, ML, DevSecOps .... (and a lot more to learn!)
+- 👀 I’m interested in fields related to <b>Data Science<b> and <b>Artifical Intelligence<b>!
+- 🌱 I’m currently learning Data Science, ML, DevSecOps .... (and a lot more to learn!)
 - 🛠 Some of my other works:
 > 1. Covid-19 Visualization with R - https://rpubs.com/qianyu/684447
 > 2. SG Population Visualization with R - https://rpubs.com/qianyu/681167
